@@ -37,7 +37,7 @@
 ## 安装
 ### 1、Docker
 ```
-docker pull hsuyelin/nas-tools:latest
+docker pull devincn/nas-tools:latest
 ```
 教程见 [这里](https://raw.githubusercontent.com/hsuyelin/nas-tools/master/docker/readme.md) 。
 
